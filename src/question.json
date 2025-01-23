@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "question": "Who was the first President of India?",
+      "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Sardar Vallabhbhai Patel", "Lal Bahadur Shastri"],
+      "correctOption": "Dr. Rajendra Prasad"
+    },
+    {
+      "id": 2,
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctOption": "Jupiter"
+    },
+    {
+      "id": 3,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "India", "Japan", "Thailand"],
+      "correctOption": "Japan"
+    },
+    {
+      "id": 4,
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correctOption": "Canberra"
+    },
+    {
+      "id": 5,
+      "question": "Who wrote the national anthem of India?",
+      "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Sarojini Naidu", "Subhas Chandra Bose"],
+      "correctOption": "Rabindranath Tagore"
+    }
+  ]
